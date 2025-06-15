@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L/4jzVLWSpQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Documents\\Humanizer.NET\\HumanizerDemo\\HumanizerDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512"
+  ],
+  "logs": []
+}
