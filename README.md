@@ -73,7 +73,7 @@ Dehumanize: three days ago => 3 days ago
 
 --- Romanize ---
 Romanize: 42 => XLII
-
+```
 # Ý nghĩa của các đầu ra của Humanizer
 
 Humanizer cung cấp nhiều tính năng hữu ích cho .NET, giúp chuyển đổi dữ liệu thành các định dạng dễ hiểu và thân thiện với người dùng. Dưới đây là ý nghĩa của từng loại đầu ra mà thư viện cung cấp:
@@ -171,7 +171,7 @@ Humanizer cung cấp nhiều tính năng hữu ích cho .NET, giúp chuyển đ�
 2. Mở dự án trong Visual Studio hoặc IDE của bạn.
 3. Chạy chương trình bằng cách chạy dotnet run vì bài này là console app.
 4. Xem kết quả trên cửa sổ console.
-Program dự án :[/program.cs](https://github.com/Humanizr/Humanizer/blob/main/src/Humanizer/Program.cs)
+Program dự án :[Code Humanize](https://github.com/EduHub-LHU/Humanizer.NET/blob/main/Program.cs)
 ## Yêu cầu hệ thống
 - .NET 6.0 trở lên
 - Visual Studio 2019 hoặc mới hơn (hoặc bất kỳ IDE nào hỗ trợ .NET)
